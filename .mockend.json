@@ -2,5 +2,5 @@
   "User": {
     "title": { "string": {} }
   },
-  "booking": {}
+  "Booking": { "string": {} }
 }
